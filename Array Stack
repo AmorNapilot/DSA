@@ -1,4 +1,8 @@
-
+/**
+@author[Noella Amor Napilot]
+@link[AmorNapilot]
+@last updated[10-03-16]
+*/
 public class Program
 {
 private int capacity;
